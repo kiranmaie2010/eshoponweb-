@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID:036a167e-ac63-4444-985b-34c2b70a141f
+  SUBSCRIPTION-ID: 036a167e-ac63-4444-985b-34c2b70a141f
   WEBAPP-NAME: ctjpbatch7
 
 
